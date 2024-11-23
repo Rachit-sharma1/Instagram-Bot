@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="14X6lZ8fCkClG8gJ-PtrgQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.instagram.com/" CVScreenId="5ef3b883-17ab-4360-b288-7b6c99fe97a8" CvElementArea="1065, 451, 407, 60" CvType="InputBox" DesignTimeRectangle="1080, 455, 377, 54" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='loginForm' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='loginForm' tag='SPAN' type='' class='_aa4a' /&gt;" Guid="25e86b06-d927-4435-888e-d92777b64783" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Instagram' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f9f585225826458a362d540057209798.png" xmlns="">0AmkpYVR_XU2ZRDnMeYV1pA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,116 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "loginDeets&Sequence_2",
+        "userName&Sequence_2",
+        "passWord&Sequence_2",
+        "loginArray&Sequence_2",
+        "ifTurnOnNotif&Sequence_2",
+        "ifSaveLoginInfo&Sequence_2",
+        "ifLoggedIn&Sequence_3",
+        "LoggedIn&Sequence_3",
+        "variable2&Sequence_3",
+        "checkLogin&Sequence_4",
+        "savelogin&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Review1_Flowchart.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Flowchart1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Workflow4.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "inputDestinationfolder&Sequence_14",
+        "inputDestinationfolder&Sequence_5",
+        "userName&Sequence_2",
+        "followerCountstr&Sequence_2",
+        "followerCount&Sequence_2",
+        "followingCountstr&Sequence_2",
+        "followingCount&Sequence_2",
+        "postCountstr&Sequence_2",
+        "postCount&Sequence_2",
+        "reelCount&Sequence_2",
+        "accountType&Sequence_2",
+        "followerCountuielement&Sequence_2",
+        "profileURL&Sequence_2",
+        "accountTyperaw&Sequence_2",
+        "basicInfotable&Sequence_2",
+        "listOfsubtabs&Sequence_3",
+        "indexOfsubtabs&Sequence_3",
+        "subtabName&Sequence_3",
+        "Extractionmode&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Review-1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "checkLogin&Sequence_4",
+        "savelogin&Sequence_5",
+        "loginDeets&Sequence_2",
+        "userName&Sequence_2",
+        "passWord&Sequence_2",
+        "loginArray&Sequence_2",
+        "ifTurnOnNotif&Sequence_2",
+        "ifSaveLoginInfo&Sequence_2",
+        "ifLoggedIn&Sequence_3",
+        "LoggedIn&Sequence_3",
+        "variable2&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Login/Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "loginDeets&Sequence_2",
+        "userName&Sequence_2",
+        "passWord&Sequence_2",
+        "loginArray&Sequence_2",
+        "ifTurnOnNotif&Sequence_2",
+        "ifSaveLoginInfo&Sequence_2",
+        "ifLoggedIn&Sequence_3",
+        "LoggedIn&Sequence_3",
+        "variable2&Sequence_3",
+        "checkLogin&Sequence_4",
+        "savelogin&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

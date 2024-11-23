@@ -1,0 +1,40 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "loginDeets&Sequence_2",
+        "userName&Sequence_2",
+        "passWord&Sequence_2",
+        "loginArray&Sequence_2",
+        "ifTurnOnNotif&Sequence_2",
+        "ifSaveLoginInfo&Sequence_2",
+        "ifLoggedIn&Sequence_3",
+        "LoggedIn&Sequence_3",
+        "variable2&Sequence_3",
+        "checkLogin&Sequence_4",
+        "savelogin&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Review1_Flowchart.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
